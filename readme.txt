@@ -5,5 +5,5 @@ to be added to a git
 some additional changes
 
 
-some changes in the branch
+conflict here some changes in the branch
 git checkout -b branchname
