@@ -13,3 +13,14 @@ git checkout -b branchname
 
 git branch -d branchname
 
+
+changes to be done later
+
+
+git time travel reset and reflog
+
+
+
+another to test time travel
+
+setting up ssh for github
